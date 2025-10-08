@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1f89a98f-a032-4082-b9ff-c1b051446861",
+    "timestamp": "2025-10-08T09:07:23.704973",
+    "event_type": "event_logger_initialized",
+    "metadata": {
+      "retention_days": 90,
+      "events_loaded": 0
+    }
+  },
+  {
+    "id": "33be3d19-5ef2-4778-8e27-eeea2003fad7",
+    "timestamp": "2025-10-08T09:07:23.715088",
+    "event_type": "system_startup",
+    "metadata": {
+      "mock_mode": true,
+      "debug": true,
+      "version": "1.0.0"
+    }
+  },
+  {
+    "id": "80c0f03f-769f-453f-a5f8-e9b2a2730027",
+    "timestamp": "2025-10-08T09:07:34.058866",
+    "event_type": "system_shutdown",
+    "metadata": {}
+  },
+  {
+    "id": "ef8d8318-cc3e-4714-8af5-7f77ddc9674c",
+    "timestamp": "2025-10-08T09:07:45.698119",
+    "event_type": "event_logger_initialized",
+    "metadata": {
+      "retention_days": 90,
+      "events_loaded": 3
+    }
+  },
+  {
+    "id": "a0292d53-8c7f-43f8-8166-6d5bc75b7b4d",
+    "timestamp": "2025-10-08T09:07:45.699119",
+    "event_type": "system_startup",
+    "metadata": {
+      "mock_mode": true,
+      "debug": true,
+      "version": "1.0.0"
+    }
+  },
+  {
+    "id": "ebb9e5c2-4276-461a-868f-b5d092acff68",
+    "timestamp": "2025-10-08T09:07:49.494113",
+    "event_type": "system_shutdown",
+    "metadata": {}
+  }
+]

@@ -1,0 +1,51 @@
+JOB_ID,JOB_LOCATION,MODE_OF_WORK,KEY_SKILLS,EXPERIENCE,Analytics
+JOB001,Salvador,Onsite,"Generative AI, Data Science, Digital Marketing, Machine Learning, Data Analytics",3,4.43
+JOB002,Recife,Hybrid,"Digital Marketing, Web Development, Machine Learning, Renewable Energy, Generative AI",2,3.16
+JOB003,Rio de Janeiro,Hybrid,"DevOps, Renewable Energy, Digital Marketing, Data Science, Data Analytics",7,4.55
+JOB004,Fortaleza,Remote,"Project Management, Environmental Engineering, Data Science, Web Development, DevOps",7,4.3
+JOB005,Rio de Janeiro,Hybrid,"Web Development, Project Management, Environmental Engineering, DevOps, Digital Marketing",7,4.29
+JOB006,São Paulo,Hybrid,"Web Development, Digital Marketing, Environmental Engineering, Generative AI, Renewable Energy",3,3.81
+JOB007,Recife,Onsite,"Digital Marketing, DevOps, Generative AI, Project Management, Machine Learning",9,4.48
+JOB008,Recife,Remote,"DevOps, Project Management, Data Analytics, Renewable Energy, Environmental Engineering",4,3.23
+JOB009,Porto Alegre,Hybrid,"Renewable Energy, Project Management, Generative AI, Digital Marketing, Data Science",10,3.64
+JOB010,Salvador,Onsite,"Data Analytics, Machine Learning, Generative AI, Environmental Engineering, Data Science",9,4.01
+JOB011,Recife,Onsite,"Renewable Energy, Environmental Engineering, Web Development, DevOps, Data Science",7,3.71
+JOB012,Fortaleza,Remote,"Digital Marketing, DevOps, Environmental Engineering, Machine Learning, Data Science",5,3.44
+JOB013,Rio de Janeiro,Hybrid,"Project Management, Digital Marketing, Data Analytics, Renewable Energy, Machine Learning",4,4.18
+JOB014,Curitiba,Hybrid,"Data Analytics, Web Development, Machine Learning, Project Management, Environmental Engineering",10,4.96
+JOB015,Salvador,Hybrid,"Environmental Engineering, DevOps, Generative AI, Web Development, Renewable Energy",10,3.68
+JOB016,Brasília,Remote,"Digital Marketing, Renewable Energy, Project Management, Web Development, DevOps",7,3.73
+JOB017,Salvador,Hybrid,"Renewable Energy, Environmental Engineering, Machine Learning, Data Analytics, DevOps",1,4.76
+JOB018,Salvador,Remote,"Data Analytics, DevOps, Data Science, Generative AI, Environmental Engineering",10,4.28
+JOB019,Fortaleza,Onsite,"DevOps, Data Analytics, Data Science, Digital Marketing, Machine Learning",3,3.07
+JOB020,Rio de Janeiro,Remote,"Machine Learning, Web Development, Renewable Energy, DevOps, Digital Marketing",8,4.37
+JOB021,Fortaleza,Hybrid,"Data Science, Web Development, Renewable Energy, DevOps, Digital Marketing",7,4.02
+JOB022,Salvador,Onsite,"Data Analytics, Project Management, Renewable Energy, Generative AI, Web Development",9,4.86
+JOB023,Recife,Hybrid,"Environmental Engineering, Machine Learning, Digital Marketing, DevOps, Project Management",3,4.71
+JOB024,Salvador,Hybrid,"Web Development, Renewable Energy, Data Science, Data Analytics, Generative AI",9,4.74
+JOB025,Porto Alegre,Onsite,"Data Science, Renewable Energy, Environmental Engineering, Machine Learning, Generative AI",10,3.18
+JOB026,Recife,Onsite,"Renewable Energy, Project Management, Environmental Engineering, Data Analytics, Machine Learning",1,3.98
+JOB027,São Paulo,Remote,"Environmental Engineering, Generative AI, Project Management, Web Development, Data Science",7,4.34
+JOB028,Curitiba,Hybrid,"Data Analytics, Machine Learning, Data Science, Environmental Engineering, Project Management",10,4.8
+JOB029,São Paulo,Remote,"Data Science, Environmental Engineering, Generative AI, Web Development, DevOps",9,4.49
+JOB030,Recife,Onsite,"Environmental Engineering, Digital Marketing, Data Science, Project Management, Web Development",1,4.76
+JOB031,Brasília,Hybrid,"Generative AI, Data Analytics, Web Development, Renewable Energy, Data Science",10,3.22
+JOB032,São Paulo,Onsite,"Machine Learning, Data Science, Data Analytics, Generative AI, Project Management",6,3.96
+JOB033,Brasília,Onsite,"Machine Learning, DevOps, Data Science, Renewable Energy, Environmental Engineering",7,4.83
+JOB034,Salvador,Remote,"Machine Learning, Data Analytics, Project Management, Digital Marketing, Data Science",3,4.1
+JOB035,Brasília,Onsite,"Data Analytics, Project Management, Web Development, Renewable Energy, Machine Learning",10,4.51
+JOB036,Porto Alegre,Hybrid,"Data Science, Data Analytics, Digital Marketing, Machine Learning, DevOps",6,4.64
+JOB037,Salvador,Remote,"Generative AI, Machine Learning, DevOps, Renewable Energy, Data Analytics",9,4.83
+JOB038,Curitiba,Remote,"Machine Learning, Environmental Engineering, Renewable Energy, Project Management, Web Development",7,4.14
+JOB039,Porto Alegre,Onsite,"Data Science, Data Analytics, Renewable Energy, Environmental Engineering, Digital Marketing",7,4.17
+JOB040,Salvador,Hybrid,"Machine Learning, Data Analytics, Web Development, DevOps, Renewable Energy",3,3.94
+JOB041,Porto Alegre,Remote,"Digital Marketing, Web Development, Environmental Engineering, Machine Learning, Data Analytics",9,3.03
+JOB042,São Paulo,Remote,"Project Management, Digital Marketing, Data Analytics, Environmental Engineering, DevOps",8,3.19
+JOB043,Fortaleza,Remote,"Project Management, Web Development, Generative AI, DevOps, Machine Learning",2,4.43
+JOB044,São Paulo,Hybrid,"Digital Marketing, Web Development, Data Science, Project Management, Renewable Energy",5,4.26
+JOB045,Porto Alegre,Hybrid,"DevOps, Web Development, Project Management, Renewable Energy, Digital Marketing",9,3.58
+JOB046,Fortaleza,Onsite,"Project Management, Data Science, Web Development, DevOps, Generative AI",6,4.25
+JOB047,Recife,Onsite,"Data Science, Digital Marketing, Environmental Engineering, Generative AI, Web Development",8,3.57
+JOB048,Recife,Remote,"Project Management, Generative AI, DevOps, Machine Learning, Renewable Energy",4,4.77
+JOB049,Recife,Hybrid,"Project Management, Digital Marketing, Data Analytics, Data Science, Machine Learning",5,4.44
+JOB050,Recife,Onsite,"Data Analytics, Web Development, Machine Learning, Environmental Engineering, Digital Marketing",8,4.68
