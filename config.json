@@ -1,0 +1,28 @@
+{
+    "project": "GDSC2025_Transcendence",
+    "version": "1.0.0",
+    "description": "Multi-agent system to help Brazilian youth find green job opportunities",
+    "paths": {
+        "data": "./data",
+        "backend": "./backend",
+        "frontend": "./frontend"
+    },
+    "services": {
+        "backend": {
+            "host": "localhost",
+            "port": 8000,
+            "api_prefix": "/api/v1",
+            "docs_url": "/docs"
+        },
+        "frontend": {
+            "host": "localhost",
+            "port": 5173
+        }
+    },
+    "ai_providers": {
+        "mistral": {
+            "mock_mode": true,
+            "model": "mistral-large"
+        }
+    }
+}

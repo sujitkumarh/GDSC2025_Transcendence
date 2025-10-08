@@ -1,0 +1,40 @@
+# 🌱 Transcendence - Complete Requirements
+# Install with: pip install -r requirements.txt
+
+# Core Backend Dependencies
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+python-multipart==0.0.6
+
+# HTTP and Async
+httpx==0.25.2
+aiofiles==23.2.1
+
+# Configuration and Environment
+python-dotenv==1.0.0
+pydantic-settings==2.1.0
+
+# AWS Integration
+boto3==1.34.0
+botocore==1.34.0
+
+# Data and Serialization
+orjson==3.9.10
+tinydb==4.8.0
+
+# Logging and Utilities
+loguru==0.7.2
+cachetools==5.3.2
+python-dateutil==2.8.2
+
+# Testing Dependencies
+pytest==7.4.3
+pytest-asyncio==0.21.1
+pytest-cov==4.1.0
+
+# Development Dependencies
+mypy==1.7.1
+
+# Process Management for Frontend
+psutil==5.9.6
